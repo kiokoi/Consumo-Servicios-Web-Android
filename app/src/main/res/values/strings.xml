@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ejemplo_Consumo_Servicios_web</string>
+    <string name="Servidor">https://deliver.rsservidores.xyz/api/</string>
+    <string-array name="Tipos">
+        <item>Seleccione</item>
+        <item>Mueble</item>
+        <item>Electronica</item>
+        <item>Hogar</item>
+        <item>Papeleria</item>
+    </string-array>
+</resources>
